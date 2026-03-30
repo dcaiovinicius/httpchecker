@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"urlchecker/internal/config"
-	"urlchecker/internal/logger"
-	"urlchecker/internal/worker"
+	"dcaiovinicius/httpchecker/internal/config"
+	"dcaiovinicius/httpchecker/internal/logger"
+	"dcaiovinicius/httpchecker/internal/worker"
 )
 
 func main() {

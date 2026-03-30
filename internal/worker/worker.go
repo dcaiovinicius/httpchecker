@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"urlchecker/internal/config"
-	"urlchecker/internal/logger"
-	"urlchecker/internal/request"
+	"dcaiovinicius/httpchecker/internal/config"
+	"dcaiovinicius/httpchecker/internal/logger"
+	"dcaiovinicius/httpchecker/internal/request"
 )
 
 type Worker struct {
