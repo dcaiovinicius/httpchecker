@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"dcaiovinicius/httpchecker/internal/config"
+	"github.com/dcaiovinicius/httpchecker/internal/config"
 )
 
 func TestShouldRetry(t *testing.T) {

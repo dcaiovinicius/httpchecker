@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"dcaiovinicius/httpchecker/internal/config"
-	"dcaiovinicius/httpchecker/internal/logger"
+	"github.com/dcaiovinicius/httpchecker/internal/config"
+	"github.com/dcaiovinicius/httpchecker/internal/logger"
 )
 
 type Checker struct {

@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"dcaiovinicius/httpchecker/internal/config"
-	"dcaiovinicius/httpchecker/internal/logger"
-	"dcaiovinicius/httpchecker/internal/worker"
+	"github.com/dcaiovinicius/httpchecker/internal/config"
+	"github.com/dcaiovinicius/httpchecker/internal/logger"
+	"github.com/dcaiovinicius/httpchecker/internal/worker"
 )
 
 func main() {

@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"dcaiovinicius/httpchecker/internal/config"
-	"dcaiovinicius/httpchecker/internal/logger"
-	"dcaiovinicius/httpchecker/internal/request"
+	"github.com/dcaiovinicius/httpchecker/internal/config"
+	"github.com/dcaiovinicius/httpchecker/internal/logger"
+	"github.com/dcaiovinicius/httpchecker/internal/request"
 )
 
 type Worker struct {
