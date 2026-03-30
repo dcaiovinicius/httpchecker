@@ -7,7 +7,7 @@ CLI tool in Go to check HTTP status codes of a list of URLs with concurrency, ti
 After publishing to GitHub, install with:
 
 ```bash
-go install github.com/dcaiovinicius/httpchecker/cmd/httpchecker@latest
+go install github.com/dcaiovinicius/httpchecker/cmd/httpchecker@v1.0.2
 ```
 
 ### How to use
