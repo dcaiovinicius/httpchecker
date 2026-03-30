@@ -7,11 +7,15 @@ CLI tool in Go to check HTTP status codes of a list of URLs with concurrency, ti
 After publishing to GitHub, install with:
 
 ```bash
-go install github.com/YOUR_USERNAME/urlchecker/cmd/httpchecker@latest
+go install github.com/dcaiovinicius/urlchecker/cmd/httpchecker@latest
 ```
 
-# Useage
+### How to use
 
 ```
 echo 'https://www.google.com' | httpcheker
+```
+
+```
+httpcheker https://www.google.com
 ```
