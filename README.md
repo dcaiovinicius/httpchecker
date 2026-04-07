@@ -13,9 +13,9 @@ go install github.com/dcaiovinicius/httpchecker/cmd/httpchecker@v1.0.2
 ### How to use
 
 ```
-echo 'https://www.google.com' | httpcheker
+echo 'https://www.google.com' | httpchecker
 ```
 
 ```
-httpcheker https://www.google.com
+httpchecker https://www.google.com
 ```
